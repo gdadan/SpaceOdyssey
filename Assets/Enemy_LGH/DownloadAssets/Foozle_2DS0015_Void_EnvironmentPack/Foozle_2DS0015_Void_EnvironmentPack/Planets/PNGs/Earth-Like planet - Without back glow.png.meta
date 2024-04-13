@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: dd44f0f9abbc39c43a136910105a3872
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c16a6436007e4db06e2e52820108e
+      internalID: -918001633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ac80d1b541d94283c5500f7c22b6d
+      internalID: -1879750332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf28aa5c7efd4498617b976f06e404
+      internalID: -805114671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a1c21bdcdb164198658e81d87aa7d
+      internalID: -696898126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783171ab8f74a349847689cf10f62be
+      internalID: 1515282882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd354a4008ce3408412a5b8bcbbd47
+      internalID: 1249802214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81987fba1f342e34ca6bff15b0eba712
+      internalID: 618272462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97f2dd35ce33742959c852224b2578
+      internalID: 888763708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ef96bb971e1a4b9ab366fd549afe0
+      internalID: 1726870923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ed020f22cb3f4db4ac8d6563c6174
+      internalID: 1485227479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed854fac6e5f34ebe4bc08771478b9
+      internalID: 823397187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_11
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f5f266acd3fb4a9c6b91293e651c7
+      internalID: 1257431533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_12
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be597ea22e41ece4b8d8bdae2cb80e79
+      internalID: -69245576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9312dcaaa04542af409e585f21962
+      internalID: -479476911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c6171991815d4fbb15f3002cbb163
+      internalID: 1088823849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_15
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbe7cfb50893f446b0e21437881ae1f
+      internalID: 1573176903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_16
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d36dbe6c40084398af640fd10a362
+      internalID: 1076088549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_17
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4c791c8f6768458ccee60e56648bc
+      internalID: 1037178927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_18
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12913623e1e62e84fb879904c9bad73e
+      internalID: 2035269140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_19
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850801ecb83bf984c83f4b45794b53ff
+      internalID: -776604280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_20
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80635a902e483c41a5446ed3487eaa6
+      internalID: 1954211484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_21
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6549068216be2c448843fb332aa7e48a
+      internalID: -764050211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_22
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f80360032ab2a1489db3e3d70cd51cf
+      internalID: 1084501156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_23
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce34aa52afb6044b645ce494634911
+      internalID: 421475076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_24
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a4795ef8ba484d93f932b190aed21
+      internalID: 1860858539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_25
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26229d1181917194b92c7ca6d72cd6e3
+      internalID: 996643472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_26
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291821fd5587e6b44b8ae246c46b80ab
+      internalID: 1996974231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_27
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5775bc48f6f97b4da1fffb8dd16d6f2
+      internalID: -2016854595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_28
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a6d0ddb8ad1745a9ac8a41d5def75
+      internalID: -2097655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_29
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a34226d74df394d82a7a05caa69880
+      internalID: -1094909748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_30
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459ce59520d6ee43902f27886750e6f
+      internalID: 171700851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_31
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d154adf37dbb804dbfc2a7ca373b300
+      internalID: -1896852028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_32
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8570e05739004c4ea06b35f739b5317
+      internalID: 1778356154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_33
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129e7aac1d0d804f839f6a907bdc45f
+      internalID: -1942650324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_34
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28350f01b4bb73f4cb583e81743b182d
+      internalID: 27473130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_35
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bf8d27ffd5254ba8a75a71ed2fb9d
+      internalID: -1575824908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_36
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4c9576fa15c0498716c6826b9354c
+      internalID: 1027379935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_37
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb2eff441422047a2cc34b67b3139b
+      internalID: 1380372501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_38
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 14
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004843cd9264db40baae431d113b926
+      internalID: 571258109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_39
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a1b4812b83f346823de4b4768317f
+      internalID: 83946788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_40
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d015041cc31a943b825b5ced6dc147
+      internalID: -1410165443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_41
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81859ad666f8624eb04b5fbb925f863
+      internalID: 860830082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_42
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ebaf8bdea619845ada8c711b7cfd75
+      internalID: 1795571265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_43
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27fc75584734841ba276e01bb048aa
+      internalID: -3810587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_44
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08a3e64281dce45a9195129edd372d
+      internalID: 226341291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_45
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ecb96d23c4c14c80614426a3e2e9a
+      internalID: -688973826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_46
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd75c7ac4c3d834bb3999d80cc7daf3
+      internalID: -108596772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_47
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5415c3017bde9ba4f814860d6f88ab6f
+      internalID: 1267715211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_48
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab47e9d5e336f4b832b48e6ff5cf41
+      internalID: 1896952540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_49
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40cff75cfbab3c4ca169fe5af1c3022
+      internalID: -531320474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_50
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e64753eab31d4e8029f1c7d1e7f57
+      internalID: 1377635742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_51
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6038e03c6ca98441a9258fcf732967a
+      internalID: 139999103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_52
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3853c4830aa2a94085e7db53a076211
+      internalID: 381630227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_53
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8baa4e0fa7e349a368eed4de3248b
+      internalID: 246901917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_54
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83637ae00568606459e206604d6d81b7
+      internalID: -1171489523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_55
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f070fc2b405447a8495f3e0df3a7f
+      internalID: -736265259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_56
+      rect:
+        serializedVersion: 2
+        x: 5389
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820bf86576705245835e8655cb20d7b
+      internalID: -1789275145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_57
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761acce1aa603844ad52023f7265044
+      internalID: -1103386064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_58
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c24f2a3b29224285f2bdcd94b078a
+      internalID: -1967045087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_59
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47518ca84d3a7cd43b2c20a78fe47190
+      internalID: -1872623713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_60
+      rect:
+        serializedVersion: 2
+        x: 5775
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d1c9a80d0fe54ab107d1b0963f7ce
+      internalID: -952291098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_61
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2066454d7787c41821f5ab9e245178
+      internalID: -600880618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_62
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef791ab969771ec4f82a0440763bdf89
+      internalID: -2090652460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_63
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae81db85638fff245a38f4166a071cb0
+      internalID: -84874293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_64
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d3507d14c0354abc297e534890359
+      internalID: -145744362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_65
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463641d8b01622408b8afcee49edfe8
+      internalID: 543996477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_66
+      rect:
+        serializedVersion: 2
+        x: 6349
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137cb271784b0244b6480cd822f5bfb
+      internalID: 1015506808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_67
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90bd5dbf49a3ce4695853a7764f99fa
+      internalID: -1282691819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_68
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 14
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331a942bcaed2141adec27cc97e8d2d
+      internalID: -1007530733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_69
+      rect:
+        serializedVersion: 2
+        x: 6638
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbaade57e02724bb293a0b74e41261
+      internalID: 805756581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_70
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6926c8ec5d0cd4dada6bbc501012e6
+      internalID: -383873532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_71
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfe9b9c346843478668fe767246b37
+      internalID: 1658133528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_72
+      rect:
+        serializedVersion: 2
+        x: 6926
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d1c6c42c1c464f813b3ea7ebe9179
+      internalID: 1699985301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_73
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09658d77606ee444b2536b9a91e5ab3
+      internalID: 1466499093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_74
+      rect:
+        serializedVersion: 2
+        x: 7118
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d818f784d8f604f8a4e36d796a1f71
+      internalID: -1461327559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_75
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092b79476171fcf44afe5adeb1fd6ece
+      internalID: -2049014471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Like planet - Without back glow_76
+      rect:
+        serializedVersion: 2
+        x: 7309
+        y: 14
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53f162e1f7b76479a28066b114db8e
+      internalID: 1808905853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Earth-Like planet - Without back glow_0: -918001633
+      Earth-Like planet - Without back glow_1: -1879750332
+      Earth-Like planet - Without back glow_10: 823397187
+      Earth-Like planet - Without back glow_11: 1257431533
+      Earth-Like planet - Without back glow_12: -69245576
+      Earth-Like planet - Without back glow_13: -479476911
+      Earth-Like planet - Without back glow_14: 1088823849
+      Earth-Like planet - Without back glow_15: 1573176903
+      Earth-Like planet - Without back glow_16: 1076088549
+      Earth-Like planet - Without back glow_17: 1037178927
+      Earth-Like planet - Without back glow_18: 2035269140
+      Earth-Like planet - Without back glow_19: -776604280
+      Earth-Like planet - Without back glow_2: -805114671
+      Earth-Like planet - Without back glow_20: 1954211484
+      Earth-Like planet - Without back glow_21: -764050211
+      Earth-Like planet - Without back glow_22: 1084501156
+      Earth-Like planet - Without back glow_23: 421475076
+      Earth-Like planet - Without back glow_24: 1860858539
+      Earth-Like planet - Without back glow_25: 996643472
+      Earth-Like planet - Without back glow_26: 1996974231
+      Earth-Like planet - Without back glow_27: -2016854595
+      Earth-Like planet - Without back glow_28: -2097655189
+      Earth-Like planet - Without back glow_29: -1094909748
+      Earth-Like planet - Without back glow_3: -696898126
+      Earth-Like planet - Without back glow_30: 171700851
+      Earth-Like planet - Without back glow_31: -1896852028
+      Earth-Like planet - Without back glow_32: 1778356154
+      Earth-Like planet - Without back glow_33: -1942650324
+      Earth-Like planet - Without back glow_34: 27473130
+      Earth-Like planet - Without back glow_35: -1575824908
+      Earth-Like planet - Without back glow_36: 1027379935
+      Earth-Like planet - Without back glow_37: 1380372501
+      Earth-Like planet - Without back glow_38: 571258109
+      Earth-Like planet - Without back glow_39: 83946788
+      Earth-Like planet - Without back glow_4: 1515282882
+      Earth-Like planet - Without back glow_40: -1410165443
+      Earth-Like planet - Without back glow_41: 860830082
+      Earth-Like planet - Without back glow_42: 1795571265
+      Earth-Like planet - Without back glow_43: -3810587
+      Earth-Like planet - Without back glow_44: 226341291
+      Earth-Like planet - Without back glow_45: -688973826
+      Earth-Like planet - Without back glow_46: -108596772
+      Earth-Like planet - Without back glow_47: 1267715211
+      Earth-Like planet - Without back glow_48: 1896952540
+      Earth-Like planet - Without back glow_49: -531320474
+      Earth-Like planet - Without back glow_5: 1249802214
+      Earth-Like planet - Without back glow_50: 1377635742
+      Earth-Like planet - Without back glow_51: 139999103
+      Earth-Like planet - Without back glow_52: 381630227
+      Earth-Like planet - Without back glow_53: 246901917
+      Earth-Like planet - Without back glow_54: -1171489523
+      Earth-Like planet - Without back glow_55: -736265259
+      Earth-Like planet - Without back glow_56: -1789275145
+      Earth-Like planet - Without back glow_57: -1103386064
+      Earth-Like planet - Without back glow_58: -1967045087
+      Earth-Like planet - Without back glow_59: -1872623713
+      Earth-Like planet - Without back glow_6: 618272462
+      Earth-Like planet - Without back glow_60: -952291098
+      Earth-Like planet - Without back glow_61: -600880618
+      Earth-Like planet - Without back glow_62: -2090652460
+      Earth-Like planet - Without back glow_63: -84874293
+      Earth-Like planet - Without back glow_64: -145744362
+      Earth-Like planet - Without back glow_65: 543996477
+      Earth-Like planet - Without back glow_66: 1015506808
+      Earth-Like planet - Without back glow_67: -1282691819
+      Earth-Like planet - Without back glow_68: -1007530733
+      Earth-Like planet - Without back glow_69: 805756581
+      Earth-Like planet - Without back glow_7: 888763708
+      Earth-Like planet - Without back glow_70: -383873532
+      Earth-Like planet - Without back glow_71: 1658133528
+      Earth-Like planet - Without back glow_72: 1699985301
+      Earth-Like planet - Without back glow_73: 1466499093
+      Earth-Like planet - Without back glow_74: -1461327559
+      Earth-Like planet - Without back glow_75: -2049014471
+      Earth-Like planet - Without back glow_76: 1808905853
+      Earth-Like planet - Without back glow_8: 1726870923
+      Earth-Like planet - Without back glow_9: 1485227479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

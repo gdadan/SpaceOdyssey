@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: b276d17bc579cc74dac77cc8c2d2b41c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315aabf7aba5a47468add45e00c508b4
+      internalID: -2046056669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca7a6e12c894e4c93f8077bb9f1b48
+      internalID: 1551436653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9fa3a818e7ca40a5c4ab89345da0c
+      internalID: -416548380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3b6748ae241a41820910277c23845
+      internalID: 110722182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcbd78a27f88144b9302e779c38c7a
+      internalID: -1773025216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e6cd0eac6bd94189691ef8a4dd378
+      internalID: -670527336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 15
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c327f30803944e9b294fcc6af3e7e
+      internalID: 2099437965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 16
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85c6795cc03ae540a2539a0d5565406
+      internalID: -1011162160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 12
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e372c40ddc0044da359010611b2d01
+      internalID: 1068569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_9
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 11
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6d62117d4bb343accdeb88a2ee979
+      internalID: -763605306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 13
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90c2d116e32354e9495f3e7bb036ff
+      internalID: -1890202773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kla'ed - Dreadnought - Destruction_11
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 14
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1633197e80b9f4ba6dea874ba53365
+      internalID: -1032665652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kla'ed - Dreadnought - Destruction_0: -2046056669
+      Kla'ed - Dreadnought - Destruction_1: 1551436653
+      Kla'ed - Dreadnought - Destruction_10: -1890202773
+      Kla'ed - Dreadnought - Destruction_11: -1032665652
+      Kla'ed - Dreadnought - Destruction_12: 753421354
+      Kla'ed - Dreadnought - Destruction_14: 1688772362
+      Kla'ed - Dreadnought - Destruction_16: 752203124
+      Kla'ed - Dreadnought - Destruction_17: 1431667913
+      Kla'ed - Dreadnought - Destruction_18: -213760078
+      Kla'ed - Dreadnought - Destruction_19: -282939397
+      Kla'ed - Dreadnought - Destruction_2: -416548380
+      Kla'ed - Dreadnought - Destruction_20: 1255650868
+      Kla'ed - Dreadnought - Destruction_21: -1765109212
+      Kla'ed - Dreadnought - Destruction_22: 1782461776
+      Kla'ed - Dreadnought - Destruction_23: 247614442
+      Kla'ed - Dreadnought - Destruction_24: 270915137
+      Kla'ed - Dreadnought - Destruction_25: -508394019
+      Kla'ed - Dreadnought - Destruction_26: -1631436363
+      Kla'ed - Dreadnought - Destruction_28: -87914291
+      Kla'ed - Dreadnought - Destruction_29: -1423399210
+      Kla'ed - Dreadnought - Destruction_3: 110722182
+      Kla'ed - Dreadnought - Destruction_30: 975119288
+      Kla'ed - Dreadnought - Destruction_31: 223459688
+      Kla'ed - Dreadnought - Destruction_32: -1475232452
+      Kla'ed - Dreadnought - Destruction_33: -1173300899
+      Kla'ed - Dreadnought - Destruction_34: 707345229
+      Kla'ed - Dreadnought - Destruction_35: -319037453
+      Kla'ed - Dreadnought - Destruction_36: 1254727593
+      Kla'ed - Dreadnought - Destruction_37: -816069429
+      Kla'ed - Dreadnought - Destruction_38: 190148169
+      Kla'ed - Dreadnought - Destruction_39: -381201490
+      Kla'ed - Dreadnought - Destruction_4: -1773025216
+      Kla'ed - Dreadnought - Destruction_40: 1446388197
+      Kla'ed - Dreadnought - Destruction_41: 685739842
+      Kla'ed - Dreadnought - Destruction_42: 140490624
+      Kla'ed - Dreadnought - Destruction_43: -1276989319
+      Kla'ed - Dreadnought - Destruction_44: -643294279
+      Kla'ed - Dreadnought - Destruction_45: 2059352498
+      Kla'ed - Dreadnought - Destruction_46: -1648285887
+      Kla'ed - Dreadnought - Destruction_47: 1811270050
+      Kla'ed - Dreadnought - Destruction_48: -1454993280
+      Kla'ed - Dreadnought - Destruction_49: 920796951
+      Kla'ed - Dreadnought - Destruction_5: -670527336
+      Kla'ed - Dreadnought - Destruction_50: -449781302
+      Kla'ed - Dreadnought - Destruction_51: 1854759161
+      Kla'ed - Dreadnought - Destruction_52: -448683897
+      Kla'ed - Dreadnought - Destruction_6: 2099437965
+      Kla'ed - Dreadnought - Destruction_7: -1011162160
+      Kla'ed - Dreadnought - Destruction_8: 1068569285
+      Kla'ed - Dreadnought - Destruction_9: -763605306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

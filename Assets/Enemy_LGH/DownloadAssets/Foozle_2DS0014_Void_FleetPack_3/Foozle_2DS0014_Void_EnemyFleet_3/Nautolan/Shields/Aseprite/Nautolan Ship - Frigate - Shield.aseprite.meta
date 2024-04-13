@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 5c150eb0ec044f84bad79591d40772c6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Nautolan Ship - Frigate - Shield_Frame_0
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 96
+      height: 64
+    spriteID: dc165ba641126f647a149fdfd2ed00f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Nautolan Ship - Frigate - Shield_Frame_8
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 96
+      height: 64
+    spriteID: add58dcfd75d71c4bb791ee4a6c4b782
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Nautolan Ship - Frigate - Shield_Frame_9
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 96
+      height: 64
+    spriteID: 48ebafd8da164b042a6a0c43ffbdf050
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: Nautolan Ship - Frigate - Shield_Frame_17
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 96
+      height: 64
+    spriteID: c576727b1c7407d43a8b568982f3d651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Nautolan Ship - Frigate - Shield_Frame_18
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 292
+      width: 96
+      height: 64
+    spriteID: f171e5f01c3498341ae06c0f88b18925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 292}
+  - name: Nautolan Ship - Frigate - Shield_Frame_26
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 364
+      width: 96
+      height: 64
+    spriteID: 646b2d23963770e4f88692bc55cf651f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 364}
+  - name: Nautolan Ship - Frigate - Shield_Frame_27
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 96
+      height: 64
+    spriteID: 4ff80ce2bb0c8914bafe80ac27bd52bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 436}
+  - name: Nautolan Ship - Frigate - Shield_Frame_35
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 508
+      width: 96
+      height: 64
+    spriteID: 6abb11bff56f1c24eb74a9cfd4523696
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 508}
+  - name: Nautolan Ship - Frigate - Shield_Frame_1
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 580
+      width: 96
+      height: 64
+    spriteID: 41a4ccb23ceae754fa706c52a019da0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 580}
+  - name: Nautolan Ship - Frigate - Shield_Frame_2
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 652
+      width: 96
+      height: 64
+    spriteID: b18b4a4374addc945984ac0a310e5d0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 652}
+  - name: Nautolan Ship - Frigate - Shield_Frame_3
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 96
+      height: 64
+    spriteID: eb5a672b02e83fd4f90de98cbd66fd32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 724}
+  - name: Nautolan Ship - Frigate - Shield_Frame_4
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 796
+      width: 96
+      height: 64
+    spriteID: 2a45fe8cf8e01eb479b61e839b2e9ea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 796}
+  - name: Nautolan Ship - Frigate - Shield_Frame_5
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 868
+      width: 96
+      height: 64
+    spriteID: f048d67381bd786498a0b1b806198a7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 868}
+  - name: Nautolan Ship - Frigate - Shield_Frame_6
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 940
+      width: 96
+      height: 64
+    spriteID: fcd14d750796806498463e9b8f0c092a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 940}
+  - name: Nautolan Ship - Frigate - Shield_Frame_7
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 96
+      height: 64
+    spriteID: 1ece51cc9e4381243851bcc7ec47d37e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 4}
+  - name: Nautolan Ship - Frigate - Shield_Frame_10
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 76
+      width: 96
+      height: 64
+    spriteID: a74937a166f57ca42b89ca0a29b05175
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 76}
+  - name: Nautolan Ship - Frigate - Shield_Frame_11
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 148
+      width: 96
+      height: 64
+    spriteID: ce43902830b66444db2a7ca3cf441170
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 148}
+  - name: Nautolan Ship - Frigate - Shield_Frame_12
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 220
+      width: 96
+      height: 64
+    spriteID: 322aa66238671fc46b6e102ee78ffeac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 220}
+  - name: Nautolan Ship - Frigate - Shield_Frame_13
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 292
+      width: 96
+      height: 64
+    spriteID: cc43f6aa40391584fa5232f578907419
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 292}
+  - name: Nautolan Ship - Frigate - Shield_Frame_14
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 364
+      width: 96
+      height: 64
+    spriteID: 95362097c6f983841bc05b3d2674bc8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 364}
+  - name: Nautolan Ship - Frigate - Shield_Frame_15
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 436
+      width: 96
+      height: 64
+    spriteID: a1d9cc2cc20f7d946be5ea09b09c03ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 436}
+  - name: Nautolan Ship - Frigate - Shield_Frame_16
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 508
+      width: 96
+      height: 64
+    spriteID: c3a8a0fb80e5ea64ebdbe00391049b31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 508}
+  - name: Nautolan Ship - Frigate - Shield_Frame_19
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 580
+      width: 96
+      height: 64
+    spriteID: 56048446c987a8d48937bc20d17bf9a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 580}
+  - name: Nautolan Ship - Frigate - Shield_Frame_20
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 652
+      width: 96
+      height: 64
+    spriteID: 1875b43cd73a59f46ab41c1a539f2c8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 652}
+  - name: Nautolan Ship - Frigate - Shield_Frame_21
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 724
+      width: 96
+      height: 64
+    spriteID: 13f12c5a5bcd4554380b3f7762f84fa4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 724}
+  - name: Nautolan Ship - Frigate - Shield_Frame_22
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 796
+      width: 96
+      height: 64
+    spriteID: 128663c992223914aa3edc3e6551073b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 796}
+  - name: Nautolan Ship - Frigate - Shield_Frame_23
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 868
+      width: 96
+      height: 64
+    spriteID: df7a43a8e67c096498e7d3efb76b15d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 868}
+  - name: Nautolan Ship - Frigate - Shield_Frame_24
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 940
+      width: 96
+      height: 64
+    spriteID: 31b7326da0d98c740ba818dddd1d9265
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 940}
+  - name: Nautolan Ship - Frigate - Shield_Frame_25
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 4
+      width: 96
+      height: 64
+    spriteID: dad6ed8ae26be6745971b8b99fba170e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 4}
+  - name: Nautolan Ship - Frigate - Shield_Frame_28
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 76
+      width: 96
+      height: 64
+    spriteID: d1f0aed66706b20419428d1c399621f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 76}
+  - name: Nautolan Ship - Frigate - Shield_Frame_29
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 148
+      width: 96
+      height: 64
+    spriteID: 4f54f082fdbd81447a8ac7980ad785f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 148}
+  - name: Nautolan Ship - Frigate - Shield_Frame_30
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 220
+      width: 96
+      height: 64
+    spriteID: bcf7a0d4faef2b04cac9f3268572ad44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 220}
+  - name: Nautolan Ship - Frigate - Shield_Frame_31
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 292
+      width: 96
+      height: 64
+    spriteID: bbf1de970c724c44f9d17ed6445e56fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 292}
+  - name: Nautolan Ship - Frigate - Shield_Frame_32
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 364
+      width: 96
+      height: 64
+    spriteID: ed36a4eaa1db3074ea2d2a3310fc8090
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 364}
+  - name: Nautolan Ship - Frigate - Shield_Frame_33
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 436
+      width: 96
+      height: 64
+    spriteID: 898e4613624a4444cbfe3255bb4e850f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 436}
+  - name: Nautolan Ship - Frigate - Shield_Frame_34
+    originalName: 
+    pivot: {x: 0.49479166, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 508
+      width: 96
+      height: 64
+    spriteID: e37a8a9db3921884ba38c22698ac31a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 508}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1302856497
+    name: Nautolan Ship - Frigate - Shield
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Nautolan Ship - Frigate - Shield_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: dc165ba641126f647a149fdfd2ed00f1
+    - name: Nautolan Ship - Frigate - Shield_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: add58dcfd75d71c4bb791ee4a6c4b782
+    - name: Nautolan Ship - Frigate - Shield_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 48ebafd8da164b042a6a0c43ffbdf050
+    - name: Nautolan Ship - Frigate - Shield_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: c576727b1c7407d43a8b568982f3d651
+    - name: Nautolan Ship - Frigate - Shield_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: f171e5f01c3498341ae06c0f88b18925
+    - name: Nautolan Ship - Frigate - Shield_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 646b2d23963770e4f88692bc55cf651f
+    - name: Nautolan Ship - Frigate - Shield_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 4ff80ce2bb0c8914bafe80ac27bd52bf
+    - name: Nautolan Ship - Frigate - Shield_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 6abb11bff56f1c24eb74a9cfd4523696
+    - name: Nautolan Ship - Frigate - Shield_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 41a4ccb23ceae754fa706c52a019da0d
+    - name: Nautolan Ship - Frigate - Shield_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: b18b4a4374addc945984ac0a310e5d0a
+    - name: Nautolan Ship - Frigate - Shield_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: eb5a672b02e83fd4f90de98cbd66fd32
+    - name: Nautolan Ship - Frigate - Shield_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 2a45fe8cf8e01eb479b61e839b2e9ea5
+    - name: Nautolan Ship - Frigate - Shield_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: f048d67381bd786498a0b1b806198a7e
+    - name: Nautolan Ship - Frigate - Shield_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: fcd14d750796806498463e9b8f0c092a
+    - name: Nautolan Ship - Frigate - Shield_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 1ece51cc9e4381243851bcc7ec47d37e
+    - name: Nautolan Ship - Frigate - Shield_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: a74937a166f57ca42b89ca0a29b05175
+    - name: Nautolan Ship - Frigate - Shield_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: ce43902830b66444db2a7ca3cf441170
+    - name: Nautolan Ship - Frigate - Shield_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 322aa66238671fc46b6e102ee78ffeac
+    - name: Nautolan Ship - Frigate - Shield_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: cc43f6aa40391584fa5232f578907419
+    - name: Nautolan Ship - Frigate - Shield_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 95362097c6f983841bc05b3d2674bc8f
+    - name: Nautolan Ship - Frigate - Shield_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: a1d9cc2cc20f7d946be5ea09b09c03ac
+    - name: Nautolan Ship - Frigate - Shield_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: c3a8a0fb80e5ea64ebdbe00391049b31
+    - name: Nautolan Ship - Frigate - Shield_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 56048446c987a8d48937bc20d17bf9a7
+    - name: Nautolan Ship - Frigate - Shield_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 1875b43cd73a59f46ab41c1a539f2c8a
+    - name: Nautolan Ship - Frigate - Shield_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 13f12c5a5bcd4554380b3f7762f84fa4
+    - name: Nautolan Ship - Frigate - Shield_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 128663c992223914aa3edc3e6551073b
+    - name: Nautolan Ship - Frigate - Shield_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: df7a43a8e67c096498e7d3efb76b15d6
+    - name: Nautolan Ship - Frigate - Shield_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 31b7326da0d98c740ba818dddd1d9265
+    - name: Nautolan Ship - Frigate - Shield_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: dad6ed8ae26be6745971b8b99fba170e
+    - name: Nautolan Ship - Frigate - Shield_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: d1f0aed66706b20419428d1c399621f9
+    - name: Nautolan Ship - Frigate - Shield_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 4f54f082fdbd81447a8ac7980ad785f7
+    - name: Nautolan Ship - Frigate - Shield_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: bcf7a0d4faef2b04cac9f3268572ad44
+    - name: Nautolan Ship - Frigate - Shield_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: bbf1de970c724c44f9d17ed6445e56fb
+    - name: Nautolan Ship - Frigate - Shield_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: ed36a4eaa1db3074ea2d2a3310fc8090
+    - name: Nautolan Ship - Frigate - Shield_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: 898e4613624a4444cbfe3255bb4e850f
+    - name: Nautolan Ship - Frigate - Shield_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -16
+        y: 0
+        width: 96
+        height: 64
+      spriteId: e37a8a9db3921884ba38c22698ac31a0
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 63, y: 63}
