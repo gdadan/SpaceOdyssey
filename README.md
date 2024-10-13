@@ -26,11 +26,10 @@
 - 타이틀, 로딩 화면 구현
 - 인게임 상점 구현
 - 로비 구현 (상점, 인벤토리, 스킬트리)
+  - [인벤토리 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/UI/Manager/InventoryManager.cs)
 - 플레이어 모바일 조작 구현
+  - [플레이어 조작 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/PlayerController.cs)
 
-  - [적 코드 링크](https://github.com/gdadan/CholangsAdventure/blob/main/Assets/Scripts/Enemy.cs)
-
-  - [게임 매니저 코드 링크](https://github.com/gdadan/CholangsAdventure/blob/main/Assets/Scripts/GameManager.cs)
 
 
 ### 📷 인게임 화면
