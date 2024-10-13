@@ -23,11 +23,19 @@
 
 ***
 프로그래머 3명 중 UI 파트 담당
+
+[담당 파트 링크](https://github.com/gdadan/SpaceOdyssey/tree/main/Assets/UI_AH)
+
 - 타이틀, 로딩 화면 구현
+
 - 인게임 상점 구현
+
 - 로비 구현 (상점, 인벤토리, 스킬트리)
+
   - [인벤토리 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/UI/Manager/InventoryManager.cs)
+
 - 플레이어 모바일 조작 구현
+
   - [플레이어 조작 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/PlayerController.cs)
 
 
