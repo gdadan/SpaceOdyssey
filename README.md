@@ -36,9 +36,12 @@
 ### 📷 인게임 화면
 
 ***
-<img src="https://github.com/user-attachments/assets/da9dd54e-930b-4531-b104-1d4d7a8bcb50"  width="30%" height="30%">
-<img src="https://github.com/user-attachments/assets/3d826df0-8aae-4787-9bf1-2da3a9c154eb"  width="30%" height="30%">
-<img src="https://github.com/user-attachments/assets/dbe31d67-3cb7-46c0-bb27-ad098d629077"  width="30%" height="30%">
+<img src="https://github.com/user-attachments/assets/03478852-d60a-4828-8036-533ef9698249"  width="16%" height="16%">
+<img src="https://github.com/user-attachments/assets/06e3603e-eb4e-48b9-a309-e19008add157"  width="16%" height="16%">
+<img src="https://github.com/user-attachments/assets/da9dd54e-930b-4531-b104-1d4d7a8bcb50"  width="16%" height="16%">
+<img src="https://github.com/user-attachments/assets/3d826df0-8aae-4787-9bf1-2da3a9c154eb"  width="16%" height="16%">
+<img src="https://github.com/user-attachments/assets/dbe31d67-3cb7-46c0-bb27-ad098d629077"  width="16%" height="16%">
+<img src="https://github.com/user-attachments/assets/86d1a330-d1a6-4ece-acc9-dfe6396a4297"  width="16%" height="16%">
 
 
 
