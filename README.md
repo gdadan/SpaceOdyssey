@@ -32,7 +32,7 @@
 
 - 로비 구현 (상점, 인벤토리, 스킬트리)
 
-  - [인벤토리 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/UI/Manager/InventoryManager.cs)
+  - [인벤토리 매니저 코드 링크](https://github.com/gdadan/SpaceOdyssey/blob/main/Assets/UI_AH/Scripts/UI/Manager/InventoryManager.cs)
 
 - 플레이어 모바일 조작 구현
 
