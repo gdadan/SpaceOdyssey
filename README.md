@@ -24,7 +24,7 @@
 ***
 프로그래머 3명 중 UI 파트 담당
 
-[담당 파트 링크](https://github.com/gdadan/SpaceOdyssey/tree/main/Assets/UI_AH)
+[프로젝트 Git 링크](https://github.com/gdadan/SpaceOdyssey/tree/main/Assets/UI_AH)
 
 - 타이틀, 로딩 화면 구현
 
