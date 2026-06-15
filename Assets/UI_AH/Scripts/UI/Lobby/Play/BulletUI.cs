@@ -6,7 +6,7 @@ public class BulletUI : MonoBehaviour
 {
     public ObjectPoolUI objectPoolUI;
 
-    [SerializeField] float bulletSpeed; //ÃÑ¾Ë ¼Óµµ
+    [SerializeField] float bulletSpeed; //ì´ì•Œ ì†ë„
     [SerializeField] int number;
 
     private void Update()
@@ -16,7 +16,7 @@ public class BulletUI : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        //BorderBullet¿¡ ´êÀ¸¸é ÃÑ¾Ë ¹İÈ¯
+        //BorderBulletì— ë‹¿ìœ¼ë©´ ì´ì•Œ ë°˜í™˜
         if (collision.gameObject.tag == "BorderBullet")
         {
             objectPoolUI.ReturnObj(number, gameObject);

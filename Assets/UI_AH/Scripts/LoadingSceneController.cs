@@ -9,9 +9,9 @@ public class LoadingSceneController : MonoBehaviour
     static string nextScene;
 
     [SerializeField]
-    Image progressBar; //·Îµù¹Ù
+    Image progressBar; //ë¡œë”©ë°”
 
-    //·Îµù¾À È£ÃâÇÏ´Â ÇÔ¼ö
+    //ë¡œë”©ì”¬ í˜¸ì¶œí•˜ëŠ” í•¨ìˆ˜
     public static void LoadScene(string sceneName)
     {
         nextScene = sceneName;
@@ -33,12 +33,12 @@ public class LoadingSceneController : MonoBehaviour
         {
             yield return null;
 
-            //·ÎµùÀÌ 0.9º¸´Ù ÀÛÀ¸¸é ·Îµù ÁøÇàµµ Ç¥½Ã
+            //ë¡œë”©ì´ 0.9ë³´ë‹¤ ì‘ìœ¼ë©´ ë¡œë”© ì§„í–‰ë„ í‘œì‹œ
             if (op.progress < 0.9f)
             {
                 progressBar.fillAmount = op.progress;
             }
-            //·ÎµùÀÌ 0.9 ³Ñ¾î°¡¸é 0.9¿¡¼­ 1·Î 1ÃÊ¿¡ °ÉÃÄ¼­ Ã¤¿ì±â
+            //ë¡œë”©ì´ 0.9 ë„˜ì–´ê°€ë©´ 0.9ì—ì„œ 1ë¡œ 1ì´ˆì— ê±¸ì³ì„œ ì±„ìš°ê¸°
             else
             {
                 timer += Time.unscaledDeltaTime;

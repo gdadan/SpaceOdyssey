@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class ObjectPoolUI : MonoBehaviour
 {
-    public List<GameObject> bulletsPrefab; //ÃÑ¾Ë ÇÁ¸®ÆÕµé
-    public List<Queue<GameObject>> bullets; //ÃÑ¾Ëµé
+    public List<GameObject> bulletsPrefab; //ì´ì•Œ í”„ë¦¬íŒ¹ë“¤
+    public List<Queue<GameObject>> bullets; //ì´ì•Œë“¤
 
     private void Awake()
     {
         bullets = new List<Queue<GameObject>>();
 
-        //ÃÑ¾Ë ÇÁ¸®ÆÕ¼ö¸¸Å­ ºñ¾î ÀÖ´Â queue »ı¼º
+        //ì´ì•Œ í”„ë¦¬íŒ¹ìˆ˜ë§Œí¼ ë¹„ì–´ ìˆëŠ” queue ìƒì„±
         for (int i = 0; i < bulletsPrefab.Count; i++)
         {
             Queue<GameObject> queue = new Queue<GameObject>();
@@ -20,7 +20,7 @@ public class ObjectPoolUI : MonoBehaviour
         }
     }
 
-    //ÃÑ¾Ë »ı¼º ÇÔ¼ö
+    //ì´ì•Œ ìƒì„± í•¨ìˆ˜
     GameObject Create(int num)
     {
         GameObject bullet = Instantiate(bulletsPrefab[num]);
@@ -29,7 +29,7 @@ public class ObjectPoolUI : MonoBehaviour
         return bullet;
     }
 
-    //ÃÑ¾Ë °¡Á®¿À´Â ÇÔ¼ö
+    //ì´ì•Œ ê°€ì ¸ì˜¤ëŠ” í•¨ìˆ˜
     public GameObject GetObj(int num)
     {
         if (bullets[num].Count > 0)
@@ -46,7 +46,7 @@ public class ObjectPoolUI : MonoBehaviour
         }
     }
 
-    //ÃÑ¾Ë ¹İÈ¯ ÇÔ¼ö
+    //ì´ì•Œ ë°˜í™˜ í•¨ìˆ˜
     public void ReturnObj(int num, GameObject gameObject)
     {
         gameObject.SetActive(false);

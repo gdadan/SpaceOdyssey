@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class PlayerUI : MonoBehaviour
 {
-    [SerializeField] float bullet1CoolTime; //ÃÑ¾ËC ÄðÅ¸ÀÓ
-    [SerializeField] float bullet2CoolTime; //ÃÑ¾ËB ÄðÅ¸ÀÓ
-    [SerializeField] float bullet3CoolTime; //ÃÑ¾ËA ÄðÅ¸ÀÓ
+    [SerializeField] float bullet1CoolTime; //ì´ì•ŒC ì¿¨íƒ€ìž„
+    [SerializeField] float bullet2CoolTime; //ì´ì•ŒB ì¿¨íƒ€ìž„
+    [SerializeField] float bullet3CoolTime; //ì´ì•ŒA ì¿¨íƒ€ìž„
     
     float bullet1Timer;
     float bullet2Timer;
@@ -30,10 +30,10 @@ public class PlayerUI : MonoBehaviour
 
     void Fire()
     {
-        //ÇÃ·¹ÀÌ È­¸éÀÏ ¶§¿¡¸¸ ½ÃÀÛ
+        //í”Œë ˆì´ í™”ë©´ì¼ ë•Œì—ë§Œ ì‹œìž‘
         if (NestedScrollManager.instance.targetIndex == 2)
         {
-            //ÃÑ¾ËÀÌ °¢°¢ÀÇ ÄðÅ¸ÀÓ¸¶´Ù ¹ß»ç
+            //ì´ì•Œì´ ê°ê°ì˜ ì¿¨íƒ€ìž„ë§ˆë‹¤ ë°œì‚¬
             if (bullet1Timer > bullet1CoolTime)
             {
                 GameObject bullet1 = objectPoolUI.GetObj(1);

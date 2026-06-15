@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//ÀÎ°ÔÀÓ µ¥ÀÌÅÍ
+//ì¸ê²Œì„ ë°ì´í„°
 [Serializable]
 public class InGameData
 {
@@ -14,7 +14,7 @@ public class InGameData
     public List<ItemData> ig_playerItemData = new List<ItemData>();
 }
 
-//ºñÇà±â µ¥ÀÌÅÍ
+//ë¹„í–‰ê¸° ë°ì´í„°
 [Serializable]
 public class PlaneStatData
 {
@@ -22,7 +22,7 @@ public class PlaneStatData
     public int def;
 }
 
-//À¯Àú µ¥ÀÌÅÍ
+//ìœ ì € ë°ì´í„°
 [Serializable]
 public class PlayerData
 {
@@ -36,7 +36,7 @@ public class PlayerData
     public List<ItemData> playerItemData = new List<ItemData>();
 }
 
-//À¯Àú ÃÑ¾Ë µ¥ÀÌÅÍ
+//ìœ ì € ì´ì•Œ ë°ì´í„°
 [Serializable]
 public class BulletData
 {
@@ -49,7 +49,7 @@ public class BulletData
         this.bulletCount = _bulletCount;
     }
 }
-//À¯Àú ¾ÆÀÌÅÛ µ¥ÀÌÅÍ
+//ìœ ì € ì•„ì´í…œ ë°ì´í„°
 [Serializable]
 public class ItemData
 {
@@ -63,7 +63,7 @@ public class ItemData
     }
 }
 
-//À¯Àú µ¥ÀÌÅÍ °ü¸®ÇÏ´Â ½ºÅ©¸³Æ®
+//ìœ ì € ë°ì´í„° ê´€ë¦¬í•˜ëŠ” ìŠ¤í¬ë¦½íŠ¸
 public class DataManager : MonoBehaviour
 {
     public static DataManager instance;
@@ -89,7 +89,7 @@ public class DataManager : MonoBehaviour
         TestPlayerData();
     }
 
-    //¾ÆÀÌÅÛ µ¥ÀÌÅÍ ºÒ·¯¿À±â
+    //ì•„ì´í…œ ë°ì´í„° ë¶ˆëŸ¬ì˜¤ê¸°
     public void TestPlayerData()
     {
         playerData = new PlayerData();
@@ -114,7 +114,7 @@ public class DataManager : MonoBehaviour
         playerData.gem = 50000;
     }
 
-    //ÃÑ¾Ë ¸®½ºÆ® »èÁ¦
+    //ì´ì•Œ ë¦¬ìŠ¤íŠ¸ ì‚­ì œ
     public void RemoveBulletData(int key)
     {
         int index = playerData.playerBulletData.RemoveAll(o => o.bulletKey == key);

@@ -19,7 +19,7 @@ public class SkillSlot : MonoBehaviour
     public GameObject unlockImage;
     public GameObject upgradeImage;
 
-    public int key; //¾ÆÀÌÅÛ key°ª
+    public int key; //ì•„ì´í…œ keyê°’
     public int price;
     public string type;
 

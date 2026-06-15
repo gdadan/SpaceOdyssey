@@ -11,7 +11,7 @@ public class BulletPopupManager : MonoBehaviour
 
     public int cusItemKey;
     
-    //¾ÆÀÌÅÛ ÆË¾÷Ã¢ Open
+    //ì•„ì´í…œ íŒì—…ì°½ Open
     public virtual void OpenBulletPopUp(BulletSlot _bulletSlot)
     {
         bulletSlot = _bulletSlot;
